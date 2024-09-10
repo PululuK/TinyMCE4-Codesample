@@ -64,6 +64,7 @@ Example configuration:
         {text: 'SQL', value: 'sql'},
         {text: 'reStructuredText', value: 'rest'},
         {text: 'Plain Text', value: 'none'},
+     ]
     });
   </script>
 
